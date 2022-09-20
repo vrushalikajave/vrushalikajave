@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **vrkajave1994@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/130arkhfYGcfT5vMnuyFUTHWNPXh9HM4H/view](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/130arkhfYGcfT5vMnuyFUTHWNPXh9HM4H/view)
 
 - ⚡ Fun fact **I am funny😅**
 
