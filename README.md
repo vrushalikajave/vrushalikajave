@@ -32,6 +32,27 @@
 
 
 
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/vrushali-kajave-2a035520a/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vrushali-kajave-2a035520a/" />
+    </a>
+    
+
+    </a>
+    <a href="https://vrushalikajave.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://vrushalikajave.github.io/" />
+    </a>
+    <a title="vrkajave94@gmail.com" href="mailto:vrkajave94@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vrkajave94@gmail.com" />
+    </a>
+</p>
+<br>
+
 
 
 
