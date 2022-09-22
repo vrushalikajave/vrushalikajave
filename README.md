@@ -31,7 +31,26 @@
 </p> -->
 
 
+<!----------------------------------- Social Media Links Section ------------------------------------>
 
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/rahul-pawar-8138641a7/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rahul-pawar-8138641a7/" />
+    </a>
+    <a href="https://twitter.com/RahulPa65623765?t=7fngqlk_A_ja0OJHc1npnA&s=08">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" althttps://twitter.com/RahulPa65623765?t=7fngqlk_A_ja0OJHc1npnA&s=08" />
+    </a>
+    <a href="https://rahul7874.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rahul7874.github.io/" />
+    </a>
+    <a title="rp158835@gmail.com" href="rp158835@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rp158835@gmail.com" />
+    </a>
+</p>
+<br>
 
 
 
