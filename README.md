@@ -70,6 +70,7 @@
 <br>
 
 
+<!--------------------------------------------------  Github Stats ------------------------------------>
 
 ## 📊 My Github Stats
   <br/>
@@ -86,7 +87,7 @@
 <br/>
 <br/>
 
-
+<!--------------------------------------------------  Views and Followers ------------------------------------>
 
 ## ❤ Views and Followers
 <a href="https://github.com/vrushalikajave/github-profile-views-counter">
