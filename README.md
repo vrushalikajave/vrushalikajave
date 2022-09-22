@@ -25,16 +25,14 @@
 
 - ⚡ Fun fact **I am funny😅**
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vrushali-kajave-2a035520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vrushali-kajave-2a035520a/" height="30" width="40" /></a>
-</p> -->
+
 
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+ 
+<h2> ## Connect with me: </h2>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vrushali-kajave-2a035520a/">
