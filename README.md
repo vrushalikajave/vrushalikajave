@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vrushali Kajave</h1>
-<h3 align="center">A passionate Full-Stack Web developer from India</h3>
+<h3 align="center">Dedicated and efficient aspiring fullstack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/binary-gif-2.gif">
 
